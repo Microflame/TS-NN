@@ -5,6 +5,7 @@
 *.*
 !*.ipynb
 !*.py
+!*.pdf
 !/.gitignore
 !/.README.md
 
